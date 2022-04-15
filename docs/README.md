@@ -1,9 +1,9 @@
 ## SPLOT Documenation Central
 
-This is an experiment to pu docsify to use to make this a hub for all SPLOT theme documentation, rendered in a more readbale format from he README.md in each theme.
+This is an experiment to pu docsify to use to make this a hub for all SPLOT theme documentation, rendered in a more readable format from he README.md in each theme.
 
 ### What's a SPLOT?
-Yes, he meaning is open o debate, but take a look at http://splot.ca/
+Yes, he meaning is open to debate, but take a look at http://splot.ca/
 
 ### SPLOT Doc Collection
 
