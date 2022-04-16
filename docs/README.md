@@ -1,22 +1,15 @@
-## What is a SPLOT?
-This question has baffled many exports. Might it be **Smallest Possible Open Learning Technology** or maybe **Simplest Portable Online Learning Tool** ? There is even [a SPLOT that poses this question](https://cogdog.github.io/permutator/?wordsrc=splot).
+## CogDog Docs
+This is a hub for documentation of all my (Alan Levine) [scattered GitHub Projects](https://github.com/cogdog/), rendering each repo's readme as a more readable [docsify](https://docsify.js.org/) powered document. Credit due to  [Paul Hibbitts](https://github.com/hibbitts-design/) for encouraging and providing so many docsify examples, plus the code for [Beau Shaw's dynamic generator](https://github.com/DaddyWarbucks/remote-docsify), from which it is forked. 
 
-Regardless, [your answers are available from the SPLOT home base](https://splot.ca/about/). Each is housed in its own Github repo, with a lengthly README. This site is aimed at organizing them in a more readable form, making use of a dynamic docsify generation suggested by [Paul Hibbitts](https://github.com/hibbitts-design/).
+As I planned first to use it for my [WordPress SPLOT themes](https://cogdog.github.io/#splots), hence the URL, but then again, in its nebulous way, this little tool is truly a [SPLOT](https://cogdog.github.io/permutator/?wordsrc=splot).
 
-## Meet the SPLOTs
-Most (but not all) SPLOTs are WordPress themes but nore are being added that are GitHub based:
+In theory any repo's readme can be dynamically docsified here appending to it's URL `?basePath=https://raw.githubusercontent.com/cogdog/<reponame>/master`. 
 
-* [TRU Writer](https://github.com/cogdog/truwriter/)
-* [TRU Collector](https://github.com/cogdog/tru-collector/)
-* [SPLOTbox](https://github.com/cogdog/splotbox/)
+### All the SPLOT Docs
 
-## Try the SPLOTS
-* [TRU Writer](https://splot.ca/writer/)
-* [TRU Collector](https://splot.ca/collector/)
-* [SPLOTbox](https://splot.ca/box)
-
-## All the SPLOT Docs
-
-* [TRU Writer](https://cogdog.github.io/splot-docsify/?basePath=https://raw.githubusercontent.com/cogdog/truwriter/master)
+* [TRU Writer](https://cogdog.github.io/splot-docsify/?basePath=https://raw.githubusercontent.com/cogdog/truwriter/master) 
 * [TRU Collector](https://cogdog.github.io/splot-docsify/?basePath=https://raw.githubusercontent.com/cogdog/tru-collector/master)
 * [SPLOTbox](https://cogdog.github.io/splot-docsify/?basePath=https://raw.githubusercontent.com/cogdog/splotbox/master)
+* [SPLOTPoint](https://cogdog.github.io/splot-docsify/?basePath=https://raw.githubusercontent.com/cogdog/splotpoin/master)
+* [The Daily Blank](https://cogdog.github.io/splot-docsify/?basePath=https://raw.githubusercontent.com/cogdog/dailyblank/master)
+* [DS106 Assignment Banker](https://cogdog.github.io/splot-docsify/?basePath=https://raw.githubusercontent.com/cogdog/ds106bank/master)
