@@ -6,7 +6,7 @@ As I planned first to use it for my [WordPress SPLOT themes](https://cogdog.gith
 In theory of my repo's readme can be dynamically docsified here appending to it's URL to the main URL `?basePath=https://raw.githubusercontent.com/cogdog/<reponame>/master`. 
 
 ### All the SPLOT Docs
-These are the [WordPress themes](https://cogdog.github.io/#splots) that are part of my SPLOT collection (explore them at https://splot/ca)
+These are the [WordPress themes](https://cogdog.github.io/#splots) that are part of my SPLOT collection (explore them at https://splot.ca)
 
 * [TRU Writer](https://cogdog.github.io/splot-docsify/?basePath=https://raw.githubusercontent.com/cogdog/truwriter/master) 
 * [TRU Collector](https://cogdog.github.io/splot-docsify/?basePath=https://raw.githubusercontent.com/cogdog/tru-collector/master)
