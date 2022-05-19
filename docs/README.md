@@ -11,7 +11,7 @@ These are the [WordPress themes](https://cogdog.github.io/#splots) that are part
 * [TRU Writer](https://cogdog.github.io/splot-docsify/?basePath=https://raw.githubusercontent.com/cogdog/truwriter/master) 
 * [TRU Collector](https://cogdog.github.io/splot-docsify/?basePath=https://raw.githubusercontent.com/cogdog/tru-collector/master)
 * [SPLOTbox](https://cogdog.github.io/splot-docsify/?basePath=https://raw.githubusercontent.com/cogdog/splotbox/master)
-* [SPLOTPoint](https://cogdog.github.io/splot-docsify/?basePath=https://raw.githubusercontent.com/cogdog/splotpoin/master)
+* [SPLOTPoint](https://cogdog.github.io/splot-docsify/?basePath=https://raw.githubusercontent.com/cogdog/splotpoint/master)
 * [The Daily Blank](https://cogdog.github.io/splot-docsify/?basePath=https://raw.githubusercontent.com/cogdog/dailyblank/master)
 * [DS106 Assignment Banker](https://cogdog.github.io/splot-docsify/?basePath=https://raw.githubusercontent.com/cogdog/ds106bank/master)
 
